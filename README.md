@@ -1,5 +1,9 @@
 # 📱 MacroDroid Macros Collection
 
+[![Readme EN](https://img.shields.io/badge/README-EN-blue.svg)](https://github.com/BespredeL/MacroDroid/blob/master/README_EN.md)
+[![Readme RU](https://img.shields.io/badge/README-RU-blue.svg)](https://github.com/BespredeL/MacroDroid/blob/master/README.md)
+[![GitHub license](https://img.shields.io/badge/license-MIT-458a7b.svg)](https://github.com/BespredeL/MacroDroid/blob/master/LICENSE)
+
 A curated collection of powerful and customizable [MacroDroid](https://www.macrodroid.com) macros to automate your Android device.
 
 Each macro is stored in its own folder with:
