@@ -9,147 +9,167 @@ A powerful and flexible Telegram bot designed for remote interaction with your A
 
 ## 🔐 Key Features
 
-- **User ID-based Authorization** — Only your Telegram ID can control the bot  
-- **Security Shutdown** — Auto-deactivates on command from unauthorized users  
-- **Custom Command Support** — Add your own actions via macro editing  
-- **Device Info Retrieval** — Battery, RAM, model, and more  
-- **Real-time Geolocation** — GPS-based location reporting  
-- **Find My Phone Tools** — Activate sound and flash remotely  
-- **Notification Forwarding** — Get SMS, call, and app alerts *(requires extra triggers)*  
-- **Call Handling** — Reject or initiate calls remotely  
-- **Intruder Detection** — Takes a photo if the wrong PIN is entered  
-- **Multilingual Support** — Switch interface languages using translated strings  
-- **File Capture & Storage** — Auto-save photos, videos, documents, audio  
-- **Note Saving** — Save messages to local file notes  
-- **VirusTotal URL Checker** — Scan links for safety *(API key required)*  
-- **DeepSeek AI Chat** — Integrated chat assistant *(API key required)*  
-- ...and more!
+- **User ID-based Authorization**  
+- **Security Shutdown on Unauthorized Access**  
+- **Custom Commands Support**  
+- **Device Info & Status**  
+- **GPS Geolocation Retrieval**  
+- **Find My Phone Sound & Flash**  
+- **SMS & Notification Forwarding**  
+- **Call Reject / Dial**  
+- **Intruder Detection (Camera Trigger)**  
+- **Multilingual Interface**  
+- **Auto Save Media & Files**  
+- **Text Note Saving**  
+- **VirusTotal URL Scan** *(API key)*  
+- **DeepSeek AI Chat Assistant** *(API key)*
 
 ---
 
 ## 🛠️ Setup Instructions
 
-1. Open Telegram and search for `@BotFather`
-2. Send the command: `/newbot`
-3. Follow prompts: name your bot and choose a username
-4. Copy the API Token sent by BotFather
-5. Paste it into the `apiToken` variable in your MacroDroid macro
-6. Enable the macro and run the “Test Macro” to register your Webhook  
-✅ Your bot is now ready to use!
+1. Open Telegram and search for `@BotFather`  
+2. Send `/newbot`  
+3. Follow the prompts to name and create your bot  
+4. Copy the API Token from BotFather  
+5. Paste into `apiToken` in your macro  
+6. Enable macro and run "Test Macro"  
+✅ Done!
 
 ---
 
 ## 💬 Default Commands
 
-| Command                        | Description                                                                |
-|--------------------------------|----------------------------------------------------------------------------|
-| `/start`                       | Activate the bot and check user access                                     |
-| `/help`                        | Show all available commands and instructions                               |
-| `/device_info`                 | Show device info                                                           |
-| `/geo_position`                | Show GPS location                                                          |
-| `/sound_search`                | Play a loud sound to find your phone                                       |
-| `/reject_call`                 | Reject incoming call                                                       |
-| `/call_to +1234567890`         | Call a number remotely                                                     |
-| `/note text`                   | Save a text note                                                           |
-| `/check_url https://...`       | Check a link with VirusTotal *(API key required)*                          |
-| `Sent files`                   | Store received images, audio, video, and documents                         |
-| `Any message`                  | Chat with AI assistant *(DeepSeek, API key required)*                      |
-| `/deepseek_clear`              | Clear DeepSeek chat history                                                |
-
-⚠️ Commands may vary slightly depending on your macro version.
-
-⚠️ These commands are examples. You can fully modify or extend them for your use case. Current commands are functional out-of-the-box.
+| Command | Description |
+|--------|-------------|
+| `/start` | Activate and verify access |
+| `/help` | Show available commands |
+| `/device_info` | Show phone stats |
+| `/geo_position` | Show location |
+| `/sound_search` | Find phone by sound |
+| `/reject_call` | Reject incoming call |
+| `/call_to +1234567890` | Dial number |
+| `/note text` | Save note |
+| `/check_url https://...` | Check URL *(VirusTotal)* |
+| `/deepseek_clear` | Clear AI chat |
+| Any text | AI response *(DeepSeek)* |
 
 ---
 
 ## 🌍 Language Support
 
-The bot supports multilingual output using translation dictionaries.  
-You can easily switch the interface language (e.g., English, Russian, Spanish) to improve user experience.
+Switch interface languages dynamically. Dictionaries included: English, Russian.
 
 ---
 
-## 💡 Notes
+## ⚙️ Notes
 
-- Requires proper device permissions (location, camera, etc.)
-- Fully customizable via MacroDroid
-- VirusTotal API key needed for link scanning  
-  ➤ [Get API Key](https://www.virustotal.com)
-- DeepSeek AI requires key  
-  ➤ [Get API Key](https://openrouter.ai/deepseek/deepseek-chat-v3-0324:free)
-
----
-
-## ⚠️ Stability Requirements
-
-The bot uses Webhook — for stable operation:
-
-- The device **must be online**
-- MacroDroid **must be allowed to run in the background**
-- **Disable battery optimizations** and auto-kill policies for MacroDroid
-
----
-
-## 🙏 Special Thanks
-
-This project wouldn’t exist without the help and feedback from the amazing contributors:
-
-- **@vavlut** — For testing, finding bugs and helping to fix them
+- Give all necessary permissions (camera, location, etc.)
+- Disable battery optimizations for MacroDroid
+- [VirusTotal API Key](https://www.virustotal.com)  
+- [DeepSeek Token](https://openrouter.ai/deepseek/deepseek-chat-v3-0324:free)
 
 ---
 
 ## 🧩 Use Cases
 
-Build your own:
-
 - Anti-theft tracker  
-- Remote control panel  
-- SMS/call forwarder  
-- AI chatbot via Telegram  
-- Macro automation gateway
+- Remote control  
+- Call/SMS alerts  
+- AI assistant in Telegram  
+- Custom macro hub
 
 ---
 
-📲 **[Link to Macro](https://www.macrodroidlink.com/macrostore?id=25355)**
+## 🙏 Special Thanks
+
+- **@vavlut** — testing & QA
 
 ---
 
-<details>
-<summary>📝 Macro Changelog</summary>
+# 🇷🇺 Простой Telegram Бот  
+**Многофункциональный. Безопасный. Гибкий.**
 
-### 2025-05-10
-- ✅ Fixed: web registration conditions  
-- ✅ Fixed: chatId condition bug
+Мощный Telegram-бот для удалённого управления Android-устройством с помощью [MacroDroid](https://www.macrodroid.com/). Отлично подходит как для трекера, так и для полноценной панели управления.
 
-### 2025-05-06
-- ➕ Added: DeepSeek chat via openrouter.ai (requires token)  
-- 🔔 Added: notification after saving file
+📲 **[Ссылка на макрос](https://www.macrodroidlink.com/macrostore?id=25355)**
 
-### 2025-05-05
-- ➕ Added: `/check_url` with VirusTotal  
-- 🛠️ Fixed: webhook registration issue  
-- 🛠️ Fixed: empty VirusTotal results  
-- 🔁 Updated: random `webhookId` generation  
-- ➕ Added: regex for value checks
+---
 
-### 2025-05-04
-- ➕ Added: FileSave block
+## 🔐 Основные возможности
 
-### 2025-04-27
-- ➕ Added: `/note` command
+- **Авторизация по Telegram ID**  
+- **Отключение при несанкционированном доступе**  
+- **Поддержка пользовательских команд**  
+- **Информация об устройстве (батарея, ОЗУ, модель)**  
+- **Геолокация через GPS**  
+- **Поиск телефона по звуку/вспышке**  
+- **Пересылка уведомлений и SMS**  
+- **Отклонение/вызов звонков**  
+- **Фото злоумышленника при неверном PIN**  
+- **Многоязычный интерфейс**  
+- **Автосохранение медиа и документов**  
+- **Сохранение текстовых заметок**  
+- **Проверка ссылок через VirusTotal** *(нужен ключ)*  
+- **Чат с ИИ DeepSeek** *(нужен ключ)*
 
-### 2025-04-18
-- ➕ Added: Callback handler for call actions
+---
 
-### 2025-04-16
-- ➕ Added: Language dictionaries  
-- ➕ Added: `/reject_call`, `/call_to` commands
+## 🛠️ Инструкция по настройке
 
-### 2025-04-10
-- ➕ Added: incoming call notifications  
-- ➕ Added: SMS forwarding
+1. Откройте Telegram и найдите `@BotFather`  
+2. Введите команду `/newbot`  
+3. Укажите имя и логин бота  
+4. Скопируйте API Token  
+5. Вставьте его в переменную `apiToken` макроса  
+6. Активируйте макрос и выполните "Test Macro"  
+✅ Готово!
 
-### 2025-04-09
-- ➕ Initial release  
-- Commands: `/start`, `/help`, `/device_info`, `/geo_position`, `/sound_search`
-</details>
+---
+
+## 💬 Команды по умолчанию
+
+| Команда | Описание |
+|--------|----------|
+| `/start` | Проверка доступа |
+| `/help` | Все команды |
+| `/device_info` | Информация об устройстве |
+| `/geo_position` | Геолокация |
+| `/sound_search` | Звук для поиска |
+| `/reject_call` | Отклонить вызов |
+| `/call_to +1234567890` | Вызов номера |
+| `/note текст` | Сохранить заметку |
+| `/check_url https://...` | Проверка ссылки |
+| `/deepseek_clear` | Очистить чат с ИИ |
+| Любое сообщение | Ответ ИИ *(DeepSeek)* |
+
+---
+
+## 🌍 Поддержка языков
+
+Встроенные словари позволяют переключать язык интерфейса (EN/RU).
+
+---
+
+## ⚙️ Примечания
+
+- Требуются разрешения (камера, геолокация и пр.)
+- MacroDroid не должен выгружаться системой
+- [Ключ VirusTotal](https://www.virustotal.com)  
+- [Токен DeepSeek](https://openrouter.ai/deepseek/deepseek-chat-v3-0324:free)
+
+---
+
+## 🧩 Примеры применения
+
+- Трекер устройства  
+- Панель управления  
+- Пересылка звонков и SMS  
+- Telegram-чатбот с ИИ  
+- Центр запуска макросов
+
+---
+
+## 🙏 Благодарности
+
+- **@vavlut** — тестирование, багрепорты
