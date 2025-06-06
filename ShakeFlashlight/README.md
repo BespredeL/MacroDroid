@@ -8,18 +8,28 @@
 
 📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=134)**
 
+---
+
 ## ✅ Activation Conditions:
+
 - 🌑 Ambient light: less than **50 lux**
 - 🔒 Screen: **locked**
 - 💡 Screen: **on**
 - 📏 Proximity sensor: **not covered** (i.e., phone is not in a pocket)
 
+---
+
 ## ⚙️ How It Works:
+
 1. Shake your device.
 2. If all conditions are met, the flashlight turns on automatically.
 
+---
+
 ## ℹ️ Note
+
 If the macro doesn't trigger:
+
 - Adjust the **shake sensitivity** in MacroDroid settings.
 - Try increasing or decreasing the **shake intensity and frequency** to better suit your usage style.
 
