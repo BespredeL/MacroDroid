@@ -30,7 +30,6 @@ Remote control your Android device via Telegram.
 - 🌍 Multilingual interface support
 
 📄 **[Detailed Description →](./SimpleTelegramBot/README.md)**
-
 📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=25355)**
 
 ---
