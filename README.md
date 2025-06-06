@@ -16,6 +16,7 @@ Each macro is stored in its own folder with:
 ## 📦 Macro List
 
 ### 🤖 [Simple Telegram Bot](./SimpleTelegramBot/)
+
 Remote control your Android device via Telegram.
 
 - 🔐 Authorized control via Telegram ID
@@ -31,6 +32,36 @@ Remote control your Android device via Telegram.
 📄 **[Detailed Description →](./SimpleTelegramBot/README.md)**
 
 📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=25355)**
+
+---
+
+### 🔦 [Shake Flashlight](./ShakeFlashlight/)
+
+Turn on your flashlight by simply shaking your phone in low-light conditions.
+
+- 🌑 Activates only if ambient light < 50 lux
+- 🔒 Works only when screen is locked but turned on
+- 📏 Requires proximity sensor to be clear
+- ⚙️ Fully configurable shake sensitivity
+
+📄 **[Detailed Description →](./ShakeFlashlight/README.md)**  
+📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=134)**
+
+---
+
+### 🛡️ [Anti-Scam Protector](./AntiScamProtector/)
+
+Protects against phone call scams that use simultaneous SMS with confirmation codes.
+
+- 📴 Hides incoming code notifications during calls
+- 📩 Sends emergency alert SMS to trusted contact
+- 🚨 Shows fraud warning notifications and dialogs
+- ⏱️ Automatically ends calls if no response in 30 sec
+- 🔄 Reinforces warning with repeated dialog
+- 🌍 Multi-language support via `langs` variable
+
+📄 **[Detailed Description →](./AntiScamProtector/README.md)**  
+📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=25801)**
 
 ---
 
