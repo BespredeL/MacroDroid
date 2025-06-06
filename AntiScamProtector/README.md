@@ -6,6 +6,8 @@
 
 **This macro helps protect elderly or vulnerable people from phone scams, especially when attackers call and send confirmation codes (e.g., from banks) at the same time.**
 
+📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=25801)**
+
 ## ✅ What the macro does:
 When an **SMS or notification with a code** arrives **during an active phone call**:
 

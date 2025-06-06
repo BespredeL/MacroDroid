@@ -30,6 +30,7 @@ Remote control your Android device via Telegram.
 - 🌍 Multilingual interface support
 
 📄 **[Detailed Description →](./SimpleTelegramBot/README.md)**
+
 📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=25355)**
 
 ---
@@ -43,7 +44,8 @@ Turn on your flashlight by simply shaking your phone in low-light conditions.
 - 📏 Requires proximity sensor to be clear
 - ⚙️ Fully configurable shake sensitivity
 
-📄 **[Detailed Description →](./ShakeFlashlight/README.md)**  
+📄 **[Detailed Description →](./ShakeFlashlight/README.md)**
+
 📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=134)**
 
 ---
@@ -59,7 +61,8 @@ Protects against phone call scams that use simultaneous SMS with confirmation co
 - 🔄 Reinforces warning with repeated dialog
 - 🌍 Multi-language support via `langs` variable
 
-📄 **[Detailed Description →](./AntiScamProtector/README.md)**  
+📄 **[Detailed Description →](./AntiScamProtector/README.md)**
+
 📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=25801)**
 
 ---

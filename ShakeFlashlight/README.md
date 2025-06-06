@@ -6,6 +6,8 @@
 
 **This macro turns on the flashlight when you shake your phone — perfect for quick lighting in the dark without unlocking your screen.**
 
+📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=134)**
+
 ## ✅ Activation Conditions:
 - 🌑 Ambient light: less than **50 lux**
 - 🔒 Screen: **locked**
