@@ -50,6 +50,23 @@ Turn on your flashlight by simply shaking your phone in low-light conditions.
 
 ---
 
+### 🛡️ [Parental Control](./ParentalControl/)
+
+This macro is designed for parental monitoring — it collects the following data from a child’s device and sends it securely to the parent’s device:
+
+- 📞 Incoming & outgoing calls
+- ✉️ SMS messages
+- 🔔 Notifications from apps
+- 📍 GPS location tracking
+- 📶 Wi-Fi connection history
+- 🌍 Multi-language support via `langs` variable
+
+📄 **[Detailed Description →](./ParentalControl/README.md)**
+
+📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=27550)**
+
+---
+
 ### 🛡️ [Anti-Scam Protector](./AntiScamProtector/)
 
 Protects against phone call scams that use simultaneous SMS with confirmation codes.
