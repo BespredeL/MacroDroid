@@ -52,7 +52,7 @@ Turn on your flashlight by simply shaking your phone in low-light conditions.
 
 ### 🛡️ [Parental Control](./ParentalControl/)
 
-This macro is designed for parental monitoring — it collects the following data from a child’s device and sends it securely to the parent’s device:
+This macro is designed for parental monitoring - it collects the following data from a child’s device and sends it securely to the parent’s device:
 
 - 📞 Incoming & outgoing calls
 - ✉️ SMS messages
@@ -64,6 +64,38 @@ This macro is designed for parental monitoring — it collects the following dat
 📄 **[Detailed Description →](./ParentalControl/README.md)**
 
 📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=27550)**
+
+---
+
+### 💡 [Wake PC](./WakePC/)
+
+This macro allows you to turn on a computer or any other device in your local network using Wake-on-LAN (WoL).
+Simply connect to the same Wi-Fi network, enter the device’s MAC address and broadcast address - and MacroDroid will send a special *Magic Packet*
+that powers it on.
+
+- 🖥️ Automatic/manual WOL packet sending
+- 🌐 Broadcast support with auto-detection
+- 📡 Ability to wake the device from other macros or widgets
+- 🔧 Customizable MAC address and network segment settings
+
+📄 **[Detailed Description →](./WakePC/README.md)**
+
+📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=27708)**
+
+---
+
+### 📸 [IntruderCam](./IntruderCam/)
+
+This macro automatically records any unauthorized access attempt and collects key evidence.
+
+- 🤳 Takes photos from the front and rear cameras in case of unsuccessful login attempts (by default, 2 attempts within 10 minutes).
+- 🗺️ Saves GPS coordinates as an HTML page with an interactive map.
+- 🎥 Records 30 seconds of video from the front camera.
+- 🔔 After successful unlocking, it shows a violation notification.
+
+📄 **[Подробное описание →](./IntruderCam/README.md)**
+
+📲 **[Ссылка на макрос](https://www.macrodroidlink.com/macrostore?id=27640)**
 
 ---
 
@@ -84,7 +116,7 @@ Protects against phone call scams that use simultaneous SMS with confirmation co
 
 ---
 
-> ℹ️ More macros coming soon — stay tuned for updates.
+> ℹ️ More macros coming soon - stay tuned for updates.
 
 ---
 

@@ -4,7 +4,7 @@
 [![Readme RU](https://img.shields.io/badge/README-RU-blue.svg)](./README_RU.md)
 [![GitHub license](https://img.shields.io/badge/license-MIT-458a7b.svg)](../LICENSE)
 
-**This macro turns on the flashlight when you shake your phone — perfect for quick lighting in the dark without unlocking your screen.**
+**This macro turns on the flashlight when you shake your phone - perfect for quick lighting in the dark without unlocking your screen.**
 
 📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=134)**
 

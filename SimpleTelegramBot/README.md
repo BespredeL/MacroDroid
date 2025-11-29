@@ -6,7 +6,7 @@
 
 **Multifunctional. Secure. Expandable.**
 
-A powerful and flexible Telegram bot designed for remote interaction with your Android device using [MacroDroid](https://www.macrodroid.com/). Whether you need a basic tracker, notification forwarder, or a full-featured remote control panel — this setup is for you.
+A powerful and flexible Telegram bot designed for remote interaction with your Android device using [MacroDroid](https://www.macrodroid.com/). Whether you need a basic tracker, notification forwarder, or a full-featured remote control panel - this setup is for you.
 
 📲 **[Link to Macro](https://www.macrodroidlink.com/macrostore?id=25355)**
 
@@ -89,4 +89,4 @@ Switch interface languages dynamically. Dictionaries included: English, Russian.
 
 ## 🙏 Special Thanks
 
-- **@vavlut** — testing & QA
+- **@vavlut** - testing & QA
