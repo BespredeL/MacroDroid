@@ -93,9 +93,9 @@ This macro automatically records any unauthorized access attempt and collects ke
 - 🎥 Records 30 seconds of video from the front camera.
 - 🔔 After successful unlocking, it shows a violation notification.
 
-📄 **[Подробное описание →](./IntruderCam/README.md)**
+📄 **[Detailed Description →](./IntruderCam/README.md)**
 
-📲 **[Ссылка на макрос](https://www.macrodroidlink.com/macrostore?id=27640)**
+📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=27640)**
 
 ---
 
