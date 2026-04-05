@@ -149,7 +149,11 @@ It’s perfect for:
 
 ---
 
-📣 **Questions? Ideas?**
-Feel free to start a discussion or contact via Email [hello@bespredel.name](mailto:hello@bespredel.name).
+## ❤️ Support
+
+If the macros were useful, give them a ⭐ star and share the repository!
 
 ---
+
+📣 **Questions? Ideas?**
+Feel free to start a discussion or contact via Email [hello@bespredel.name](mailto:hello@bespredel.name).
