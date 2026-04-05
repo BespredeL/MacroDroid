@@ -1,8 +1,8 @@
 # 📱 Коллекция макросов MacroDroid
 
-[![Readme EN](https://img.shields.io/badge/README-EN-blue.svg)](https://github.com/BespredeL/MacroDroid/blob/master/README.md)
-[![Readme RU](https://img.shields.io/badge/README-RU-blue.svg)](https://github.com/BespredeL/MacroDroid/blob/master/README_RU.md)
-[![GitHub license](https://img.shields.io/badge/license-MIT-458a7b.svg)](https://github.com/BespredeL/MacroDroid/blob/master/LICENSE)
+[![Readme EN](https://img.shields.io/badge/README-EN-blue.svg)](https://github.com/BespredeL/MacroDroid/blob/main/README.md)
+[![Readme RU](https://img.shields.io/badge/README-RU-blue.svg)](https://github.com/BespredeL/MacroDroid/blob/main/README_RU.md)
+[![GitHub license](https://img.shields.io/badge/license-MIT-458a7b.svg)](https://github.com/BespredeL/MacroDroid/blob/main/LICENSE)
 
 Подборка мощных и гибко настраиваемых макросов для [MacroDroid](https://www.macrodroid.com), предназначенных для автоматизации Android-устройств.
 
