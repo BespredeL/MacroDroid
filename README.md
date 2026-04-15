@@ -133,7 +133,7 @@ Access and manage your device files directly from a browser - fully local, no cl
 
 📄 **[Detailed Description →](./RemoteFilemanager/README.md)**
 
-📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=25801)**
+📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=29850)**
 
 ---
 
