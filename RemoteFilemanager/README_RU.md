@@ -1,5 +1,9 @@
 # 📁 Remote Filemanager
 
+[![Readme EN](https://img.shields.io/badge/README-EN-blue.svg)](./README.md)
+[![Readme RU](https://img.shields.io/badge/README-RU-blue.svg)](./README_RU.md)
+[![GitHub license](https://img.shields.io/badge/license-MIT-458a7b.svg)](../LICENSE)
+
 🤖 Веб-файловый менеджер для Android на базе HTTP Server в MacroDroid.
 
 Позволяет управлять файлами устройства через браузер - полностью локально, без облака.
