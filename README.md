@@ -116,6 +116,27 @@ Protects against phone call scams that use simultaneous SMS with confirmation co
 
 ---
 
+### 📁 [Remote Filemanager](./RemoteFilemanager/)
+
+Access and manage your device files directly from a browser - fully local, no cloud required.
+
+- 🌐 Browser-based file access
+- 📂 Directory navigation
+- 📄 File listing
+- 📊 File info (size, date)
+- 🗑️ Delete files and folders
+- 📁 Create directories
+- 📋 Copy files
+- ✂️ Move files
+- 🌍 Multi-language support
+- 🔐 Works over local network (Wi-Fi / hotspot)
+
+📄 **[Detailed Description →](./RemoteFilemanager/README.md)**
+
+📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=25801)**
+
+---
+
 > ℹ️ More macros coming soon - stay tuned for updates.
 
 ---
