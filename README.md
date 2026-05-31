@@ -63,7 +63,7 @@ This macro is designed for parental monitoring - it collects the following data 
 
 📄 **[Detailed Description →](./ParentalControl/README.md)**
 
-📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=27550)**
+📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=30796)**
 
 ---
 

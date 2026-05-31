@@ -7,7 +7,7 @@
 **This macro is designed for **parental monitoring** - it collects the following data from a child’s device and sends it securely to the parent’s
 device.**
 
-📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=27550)**
+📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=30796)**
 
 ---
 
