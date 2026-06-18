@@ -1,4 +1,4 @@
-# 🛡️ Макрос «Анти-мошенник» - защита от телефонного мошенничества
+# 🛡️ Родительский контроль - отслеживание звонков, сообщений, уведомлений, GPS и Wi-Fi
 
 [![Readme EN](https://img.shields.io/badge/README-EN-blue.svg)](./README.md)
 [![Readme RU](https://img.shields.io/badge/README-RU-blue.svg)](./README_RU.md)
