@@ -84,6 +84,24 @@ that powers it on.
 
 ---
 
+### 💡 [AutoSkip YouTube Ads](./AutoSkipYouTubeAds/)
+
+Automatically skips YouTube ads in videos and Shorts.
+
+- ⏩ Automatically skips skippable ads
+- 🔇 Mutes audio during advertisements
+- 📱 Supports regular YouTube videos
+- 🎬 Supports YouTube Shorts
+- 🌍 Multi-language support
+- ⚡ Temporary screen scan optimization for better detection
+- ⚙️ Uses MacroDroid UI Interaction accessibility service
+
+📄 **[Detailed Description →](./AutoSkipYouTubeAds/README.md)**
+
+📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=27954)**
+
+---
+
 ### 📸 [IntruderCam](./IntruderCam/)
 
 This macro automatically records any unauthorized access attempt and collects key evidence.
