@@ -6,7 +6,7 @@
 
 Автоматически пропускает рекламу в YouTube и YouTube Shorts.
 
-📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=27954)**
+📲 **[Ссылка на макрос](https://www.macrodroidlink.com/macrostore?id=27954)**
 
 ---
 
