@@ -84,7 +84,7 @@
 
 ---
 
-### 💡 [AutoSkip YouTube Ads](./AutoSkipYouTubeAds/)
+### ⏩ [AutoSkip YouTube Ads](./AutoSkipYouTubeAds/)
 
 Автоматически пропускает рекламу в YouTube и YouTube Shorts.
 

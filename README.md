@@ -84,7 +84,7 @@ that powers it on.
 
 ---
 
-### 💡 [AutoSkip YouTube Ads](./AutoSkipYouTubeAds/)
+### ⏩ [AutoSkip YouTube Ads](./AutoSkipYouTubeAds/)
 
 Automatically skips YouTube ads in videos and Shorts.
 
