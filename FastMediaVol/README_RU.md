@@ -4,6 +4,8 @@
 [![Readme RU](https://img.shields.io/badge/README-RU-blue.svg)](./README_RU.md)
 [![GitHub license](https://img.shields.io/badge/license-MIT-458a7b.svg)](../LICENSE)
 
+📲 **[Ссылка на макрос](https://www.macrodroidlink.com/macrostore?id=31466)**
+
 🔊 Быстрое управление громкостью медиа на Android с помощью аппаратных кнопок громкости и MacroDroid.
 
 Зажми **Volume Down**, чтобы мгновенно выключить звук медиа, и **Volume Up**, чтобы восстановить предыдущий уровень громкости.

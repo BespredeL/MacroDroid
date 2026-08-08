@@ -8,6 +8,8 @@
 
 Shake the device to open a contact selection menu, choose the information you want to share, and display the corresponding QR code.
 
+📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=31634)**
+
 ---
 
 ## 🚀 Features

@@ -169,7 +169,9 @@
 - 💾 Локальное сохранение QR-кодов
 - 🌍 Многоязычный интерфейс
 
-📄 **[Подробное описание →](./ShakeContacts/README_RU.md)**
+📄 **[Подробнее →](./ShakeContacts/README_RU.md)**
+
+📲 **[Ссылка на макрос](https://www.macrodroidlink.com/macrostore?id=31634)**
 
 ---
 
@@ -184,7 +186,9 @@
 - ⚡ Быстрое управление аппаратными кнопками
 - 🌍 Многоязычные сообщения
 
-📄 **[Подробное описание →](./FastMediaVol/README_RU.md)**
+📄 **[Подробнее →](./FastMediaVol/README_RU.md)**
+
+📲 **[Ссылка на макрос](https://www.macrodroidlink.com/macrostore?id=31466)**
 
 ---
 

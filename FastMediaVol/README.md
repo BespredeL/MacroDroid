@@ -4,6 +4,8 @@
 [![Readme RU](https://img.shields.io/badge/README-RU-blue.svg)](./README_RU.md)
 [![GitHub license](https://img.shields.io/badge/license-MIT-458a7b.svg)](../LICENSE)
 
+📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=31466)**
+
 🔊 Fast media volume toggle for Android using MacroDroid hardware volume buttons.
 
 Mute media instantly with a long press of Volume Down and restore the previously saved volume with a long press of Volume Up.

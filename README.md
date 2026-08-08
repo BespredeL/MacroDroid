@@ -170,6 +170,8 @@ Quickly share contact information and social profiles using QR codes.
 
 📄 **[Detailed Description →](./ShakeContacts/README.md)**
 
+📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=31634)**
+
 ---
 
 ### 🎚️ [Fast Media Vol.](./FastMediaVol/)
@@ -184,6 +186,8 @@ Quickly mute and restore media volume using the hardware volume buttons.
 - 🌍 Multi-language status messages
 
 📄 **[Detailed Description →](./FastMediaVol/README.md)**
+
+📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=31466)**
 
 ---
 
