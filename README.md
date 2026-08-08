@@ -155,6 +155,38 @@ Access and manage your device files directly from a browser - fully local, no cl
 
 ---
 
+### 🤝 [ShakeContacts](./ShakeContacts/)
+
+Quickly share contact information and social profiles using QR codes.
+
+- 🤳 Launch by shaking the device
+- ☎️ Share phone contacts as vCard QR codes
+- 🌐 Share websites and social profiles
+- 💬 Support for WhatsApp and Telegram
+- 🔗 Support for multiple social networks and services
+- 📱 Display QR codes directly on the device
+- 💾 Save QR codes locally
+- 🌍 Multi-language interface
+
+📄 **[Detailed Description →](./ShakeContacts/README.md)**
+
+---
+
+### 🎚️ [Fast Media Vol.](./FastMediaVol/)
+
+Quickly mute and restore media volume using the hardware volume buttons.
+
+- 🔇 Mute media with a long press of Volume Down
+- 🔊 Restore the previous media volume with a long press of Volume Up
+- 💾 Automatically save the previous volume level
+- 📢 Show the current sound status
+- ⚡ Fast hardware button control
+- 🌍 Multi-language status messages
+
+📄 **[Detailed Description →](./FastMediaVol/README.md)**
+
+---
+
 > ℹ️ More macros coming soon - stay tuned for updates.
 
 ---
