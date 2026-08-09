@@ -3,6 +3,7 @@
 [![Readme EN](https://img.shields.io/badge/README-EN-blue.svg)](./README.md)
 [![Readme RU](https://img.shields.io/badge/README-RU-blue.svg)](./README_RU.md)
 [![GitHub license](https://img.shields.io/badge/license-MIT-458a7b.svg)](../LICENSE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/BespredeL/MacroDroid)
 
 **Turn on your computer via network (WoL)**
 
@@ -10,7 +11,7 @@ This macro allows you to power on your computer or any other device on the local
 Simply connect to the same Wi-Fi network, enter the device’s MAC and broadcast address - and MacroDroid will send a special *Magic Packet* to wake it
 up.
 
-📲 **[Link to Macro](https://www.macrodroidlink.com/macrostore?id=27708)**
+📲 **[Link to Macro](https://templates.macrodroid.com/view/27708)** | 👤 **[All macros by BespredeL](https://templates.macrodroid.com/user/94)**
 
 ---
 

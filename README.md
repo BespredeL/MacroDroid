@@ -3,6 +3,7 @@
 [![Readme EN](https://img.shields.io/badge/README-EN-blue.svg)](https://github.com/BespredeL/MacroDroid/blob/main/README.md)
 [![Readme RU](https://img.shields.io/badge/README-RU-blue.svg)](https://github.com/BespredeL/MacroDroid/blob/main/README_RU.md)
 [![GitHub license](https://img.shields.io/badge/license-MIT-458a7b.svg)](https://github.com/BespredeL/MacroDroid/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/BespredeL/MacroDroid)
 
 A curated collection of powerful and customizable [MacroDroid](https://www.macrodroid.com) macros to automate your Android device.
 
@@ -31,7 +32,7 @@ Remote control your Android device via Telegram.
 
 📄 **[Detailed Description →](./SimpleTelegramBot/README.md)**
 
-📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=25355)**
+📲 **[Macro Link](https://templates.macrodroid.com/view/25355)**
 
 ---
 
@@ -46,7 +47,7 @@ Turn on your flashlight by simply shaking your phone in low-light conditions.
 
 📄 **[Detailed Description →](./ShakeFlashlight/README.md)**
 
-📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=134)**
+📲 **[Macro Link](https://templates.macrodroid.com/view/134)**
 
 ---
 
@@ -63,7 +64,7 @@ This macro is designed for parental monitoring - it collects the following data 
 
 📄 **[Detailed Description →](./ParentalControl/README.md)**
 
-📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=30796)**
+📲 **[Macro Link](https://templates.macrodroid.com/view/30796)**
 
 ---
 
@@ -80,7 +81,7 @@ that powers it on.
 
 📄 **[Detailed Description →](./WakePC/README.md)**
 
-📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=27708)**
+📲 **[Macro Link](https://templates.macrodroid.com/view/27708)**
 
 ---
 
@@ -98,7 +99,7 @@ Automatically skips YouTube ads in videos and Shorts.
 
 📄 **[Detailed Description →](./AutoSkipYouTubeAds/README.md)**
 
-📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=27954)**
+📲 **[Macro Link](https://templates.macrodroid.com/view/27954)**
 
 ---
 
@@ -113,7 +114,7 @@ This macro automatically records any unauthorized access attempt and collects ke
 
 📄 **[Detailed Description →](./IntruderCam/README.md)**
 
-📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=27640)**
+📲 **[Macro Link](https://templates.macrodroid.com/view/27640)**
 
 ---
 
@@ -130,7 +131,7 @@ Protects against phone call scams that use simultaneous SMS with confirmation co
 
 📄 **[Detailed Description →](./AntiScamProtector/README.md)**
 
-📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=25801)**
+📲 **[Macro Link](https://templates.macrodroid.com/view/25801)**
 
 ---
 
@@ -151,7 +152,7 @@ Access and manage your device files directly from a browser - fully local, no cl
 
 📄 **[Detailed Description →](./RemoteFilemanager/README.md)**
 
-📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=29850)**
+📲 **[Macro Link](https://templates.macrodroid.com/view/29850)**
 
 ---
 
@@ -170,7 +171,7 @@ Quickly share contact information and social profiles using QR codes.
 
 📄 **[Detailed Description →](./ShakeContacts/README.md)**
 
-📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=31634)**
+📲 **[Macro Link](https://templates.macrodroid.com/view/31634)**
 
 ---
 
@@ -187,7 +188,7 @@ Quickly mute and restore media volume using the hardware volume buttons.
 
 📄 **[Detailed Description →](./FastMediaVol/README.md)**
 
-📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=31466)**
+📲 **[Macro Link](https://templates.macrodroid.com/view/31466)**
 
 ---
 

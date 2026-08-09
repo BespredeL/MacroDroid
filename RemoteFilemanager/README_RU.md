@@ -3,10 +3,13 @@
 [![Readme EN](https://img.shields.io/badge/README-EN-blue.svg)](./README.md)
 [![Readme RU](https://img.shields.io/badge/README-RU-blue.svg)](./README_RU.md)
 [![GitHub license](https://img.shields.io/badge/license-MIT-458a7b.svg)](../LICENSE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/BespredeL/MacroDroid)
 
 🤖 Веб-файловый менеджер для Android на базе HTTP Server в MacroDroid.
 
 Позволяет управлять файлами устройства через браузер - полностью локально, без облака.
+
+📲 **[Ссылка на макрос](https://templates.macrodroid.com/view/29850)** | 👤 **[Все макросы BespredeL](https://templates.macrodroid.com/user/94)**
 
 ---
 
@@ -62,19 +65,19 @@
 
 ### 📌 Основные переменные
 
-| Переменная | Описание | Пример |
-|----------|--------|--------|
-| port | Порт HTTP сервера | 8080 |
-| rootPath | Начальная папка | /sdcard/ |
+| Переменная     | Описание               | Пример      |
+|----------------|------------------------|-------------|
+| port           | Порт HTTP сервера      | 8080        |
+| rootPath       | Начальная папка        | /sdcard/    |
 | allowedFileExt | Разрешённые расширения | jpg,png,txt |
-| currentLang | Язык интерфейса | en, ru |
+| currentLang    | Язык интерфейса        | en, ru      |
 
 ---
 
 ### 🔐 Безопасность
 
-| Настройка | Описание |
-|----------|--------|
+| Настройка    | Описание                  |
+|--------------|---------------------------|
 | IP whitelist | Ограничение доступа по IP |
 
 ---
@@ -85,7 +88,7 @@
 
 1. Узнай IP устройства (например 192.168.1.100)
 2. Открой в браузере:
-http://<device_ip>:\<port>/rfm
+   http://<device_ip>:\<port>/rfm
 
 Пример:
 http://192.168.1.100:8080/rfm

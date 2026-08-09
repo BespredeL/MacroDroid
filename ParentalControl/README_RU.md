@@ -3,10 +3,11 @@
 [![Readme EN](https://img.shields.io/badge/README-EN-blue.svg)](./README.md)
 [![Readme RU](https://img.shields.io/badge/README-RU-blue.svg)](./README_RU.md)
 [![GitHub license](https://img.shields.io/badge/license-MIT-458a7b.svg)](../LICENSE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/BespredeL/MacroDroid)
 
 **Макрос предназначен для **родительского контроля**. Он собирает данные с устройства ребёнка, передавая их на устройство родителя.**
 
-📲 **[Ссылка на макрос](https://www.macrodroidlink.com/macrostore?id=30796)**
+📲 **[Ссылка на макрос](https://templates.macrodroid.com/view/30796)** | 👤 **[Все макросы BespredeL](https://templates.macrodroid.com/user/94)**
 
 ---
 

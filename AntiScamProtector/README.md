@@ -3,11 +3,12 @@
 [![Readme EN](https://img.shields.io/badge/README-EN-blue.svg)](./README.md)
 [![Readme RU](https://img.shields.io/badge/README-RU-blue.svg)](./README_RU.md)
 [![GitHub license](https://img.shields.io/badge/license-MIT-458a7b.svg)](../LICENSE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/BespredeL/MacroDroid)
 
 **This macro helps protect elderly or vulnerable people from phone scams, especially when attackers call and send confirmation codes (e.g., from
 banks) at the same time.**
 
-📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=25801)**
+📲 **[Macro Link](https://templates.macrodroid.com/view/25801)** | 👤 **[All macros by BespredeL](https://templates.macrodroid.com/user/94)**
 
 ---
 

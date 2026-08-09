@@ -3,6 +3,7 @@
 [![Readme EN](https://img.shields.io/badge/README-EN-blue.svg)](./README.md)
 [![Readme RU](https://img.shields.io/badge/README-RU-blue.svg)](./README_RU.md)
 [![GitHub license](https://img.shields.io/badge/license-MIT-458a7b.svg)](../LICENSE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/BespredeL/MacroDroid)
 
 **Включение компьютера по сети (WoL)**
 
@@ -10,7 +11,7 @@
 Достаточно подключиться к той же Wi-Fi сети, указать MAC-адрес и broadcast-адрес устройства - и MacroDroid отправит специальный *Magic Packet*,
 который запустит устройство.
 
-📲 **[Link to Macro](https://www.macrodroidlink.com/macrostore?id=27708)**
+📲 **[Ссылка на макрос](https://templates.macrodroid.com/view/27708)** | 👤 **[Все макросы BespredeL](https://templates.macrodroid.com/user/94)**
 
 ---
 

@@ -3,12 +3,13 @@
 [![Readme EN](https://img.shields.io/badge/README-EN-blue.svg)](./README.md)
 [![Readme RU](https://img.shields.io/badge/README-RU-blue.svg)](./README_RU.md)
 [![GitHub license](https://img.shields.io/badge/license-MIT-458a7b.svg)](../LICENSE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/BespredeL/MacroDroid)
 
 🤝 Быстрая передача контактной информации с помощью QR-кодов через MacroDroid.
 
 Встряхни устройство, выбери нужную контактную информацию и покажи соответствующий QR-код для сканирования.
 
-📲 **[Ссылка на макрос](https://www.macrodroidlink.com/macrostore?id=31634)**
+📲 **[Ссылка на макрос](https://templates.macrodroid.com/view/31634)** | 👤 **[Все макросы BespredeL](https://templates.macrodroid.com/user/94)**
 
 ---
 

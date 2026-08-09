@@ -3,6 +3,7 @@
 [![Readme EN](https://img.shields.io/badge/README-EN-blue.svg)](https://github.com/BespredeL/MacroDroid/blob/main/README.md)
 [![Readme RU](https://img.shields.io/badge/README-RU-blue.svg)](https://github.com/BespredeL/MacroDroid/blob/main/README_RU.md)
 [![GitHub license](https://img.shields.io/badge/license-MIT-458a7b.svg)](https://github.com/BespredeL/MacroDroid/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/BespredeL/MacroDroid)
 
 Подборка мощных и гибко настраиваемых макросов для [MacroDroid](https://www.macrodroid.com), предназначенных для автоматизации Android-устройств.
 
@@ -31,7 +32,7 @@
 
 📄 **[Подробное описание →](./SimpleTelegramBot/README_RU.md)**
 
-📲 **[Ссылка на макрос](https://www.macrodroidlink.com/macrostore?id=25355)**
+📲 **[Ссылка на макрос](https://templates.macrodroid.com/view/25355)**
 
 ---
 
@@ -46,7 +47,7 @@
 
 📄 **[Подробнее →](./ShakeFlashlight/README_RU.md)**
 
-📲 **[Ссылка на макрос](https://www.macrodroidlink.com/macrostore?id=134)**
+📲 **[Ссылка на макрос](https://templates.macrodroid.com/view/134)**
 
 ---
 
@@ -63,7 +64,7 @@
 
 📄 **[Подробное описание →](./ParentalControl/README_RU.md)**
 
-📲 **[Ссылка на макрос](https://www.macrodroidlink.com/macrostore?id=27550)**
+📲 **[Ссылка на макрос](https://templates.macrodroid.com/view/27550)**
 
 ---
 
@@ -80,7 +81,7 @@
 
 📄 **[Подробное описание →](./WakePC/README_RU.md)**
 
-📲 **[Ссылка на макрос](https://www.macrodroidlink.com/macrostore?id=27708)**
+📲 **[Ссылка на макрос](https://templates.macrodroid.com/view/27708)**
 
 ---
 
@@ -98,7 +99,7 @@
 
 📄 **[Подробное описание →](./AutoSkipYouTubeAds/README_RU.md)**
 
-📲 **[Ссылка на макрос](https://www.macrodroidlink.com/macrostore?id=27954)**
+📲 **[Ссылка на макрос](https://templates.macrodroid.com/view/27954)**
 
 ---
 
@@ -113,7 +114,7 @@
 
 📄 **[Подробное описание →](./IntruderCam/README_RU.md)**
 
-📲 **[Ссылка на макрос](https://www.macrodroidlink.com/macrostore?id=27640)**
+📲 **[Ссылка на макрос](https://templates.macrodroid.com/view/27640)**
 
 ---
 
@@ -131,7 +132,7 @@
 
 📄 **[Подробнее →](./AntiScamProtector/README_RU.md)**
 
-📲 **[Ссылка на макрос](https://www.macrodroidlink.com/macrostore?id=25801)**
+📲 **[Ссылка на макрос](https://templates.macrodroid.com/view/25801)**
 
 ---
 
@@ -152,7 +153,7 @@
 
 📄 **[Подробнее →](./RemoteFilemanager/README_RU.md)**
 
-📲 **[Ссылка на макрос](https://www.macrodroidlink.com/macrostore?id=29850)**
+📲 **[Ссылка на макрос](https://templates.macrodroid.com/view/29850)**
 
 ---
 
@@ -171,7 +172,7 @@
 
 📄 **[Подробнее →](./ShakeContacts/README_RU.md)**
 
-📲 **[Ссылка на макрос](https://www.macrodroidlink.com/macrostore?id=31634)**
+📲 **[Ссылка на макрос](https://templates.macrodroid.com/view/31634)**
 
 ---
 
@@ -188,7 +189,7 @@
 
 📄 **[Подробнее →](./FastMediaVol/README_RU.md)**
 
-📲 **[Ссылка на макрос](https://www.macrodroidlink.com/macrostore?id=31466)**
+📲 **[Ссылка на макрос](https://templates.macrodroid.com/view/31466)**
 
 ---
 

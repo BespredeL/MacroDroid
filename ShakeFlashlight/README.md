@@ -3,10 +3,11 @@
 [![Readme EN](https://img.shields.io/badge/README-EN-blue.svg)](./README.md)
 [![Readme RU](https://img.shields.io/badge/README-RU-blue.svg)](./README_RU.md)
 [![GitHub license](https://img.shields.io/badge/license-MIT-458a7b.svg)](../LICENSE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/BespredeL/MacroDroid)
 
 **This macro turns on the flashlight when you shake your phone - perfect for quick lighting in the dark without unlocking your screen.**
 
-📲 **[Macro Link](https://www.macrodroidlink.com/macrostore?id=134)**
+📲 **[Macro Link](https://templates.macrodroid.com/view/134)** | 👤 **[All macros by BespredeL](https://templates.macrodroid.com/user/94)**
 
 ---
 

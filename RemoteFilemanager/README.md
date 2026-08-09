@@ -3,10 +3,13 @@
 [![Readme EN](https://img.shields.io/badge/README-EN-blue.svg)](./README.md)
 [![Readme RU](https://img.shields.io/badge/README-RU-blue.svg)](./README_RU.md)
 [![GitHub license](https://img.shields.io/badge/license-MIT-458a7b.svg)](../LICENSE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/BespredeL/MacroDroid)
 
 🤖 A web-based file manager for Android powered by MacroDroid HTTP Server.
 
 Access and manage your device files directly from a browser - fully local, no cloud required.
+
+📲 **[Macro Link](https://templates.macrodroid.com/view/29850)** | 👤 **[All macros by BespredeL](https://templates.macrodroid.com/user/94)**
 
 ---
 
@@ -77,7 +80,7 @@ After starting the macro:
 
 1. Get your device IP (e.g. 192.168.1.100)
 2. Open in browser:
-http://<device_ip>:\<port>/rfm
+   http://<device_ip>:\<port>/rfm
 
 Example:
 http://192.168.1.100:8080/rfm
