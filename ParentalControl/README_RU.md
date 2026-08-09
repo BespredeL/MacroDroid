@@ -4,6 +4,7 @@
 [![Readme RU](https://img.shields.io/badge/README-RU-blue.svg)](./README_RU.md)
 [![GitHub license](https://img.shields.io/badge/license-MIT-458a7b.svg)](../LICENSE)
 [![GitHub](https://img.shields.io/badge/GitHub-BespredeL%2FMacroDroid-181717?logo=github&logoColor=white)](https://github.com/BespredeL/MacroDroid)
+[![MacroDroid](https://img.shields.io/badge/MacroDroid-Template%20Store-orange.svg)](https://templates.macrodroid.com/user/94)
 
 **Макрос предназначен для **родительского контроля**. Он собирает данные с устройства ребёнка, передавая их на устройство родителя.**
 

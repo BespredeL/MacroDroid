@@ -4,6 +4,7 @@
 [![Readme RU](https://img.shields.io/badge/README-RU-blue.svg)](./README_RU.md)
 [![GitHub license](https://img.shields.io/badge/license-MIT-458a7b.svg)](../LICENSE)
 [![GitHub](https://img.shields.io/badge/GitHub-BespredeL%2FMacroDroid-181717?logo=github&logoColor=white)](https://github.com/BespredeL/MacroDroid)
+[![MacroDroid](https://img.shields.io/badge/MacroDroid-Template%20Store-orange.svg)](https://templates.macrodroid.com/user/94)
 
 **This macro helps protect elderly or vulnerable people from phone scams, especially when attackers call and send confirmation codes (e.g., from
 banks) at the same time.**
