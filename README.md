@@ -9,7 +9,7 @@ A curated collection of powerful and customizable [MacroDroid](https://www.macro
 Each macro is stored in its own folder with:
 
 - The macro file (for direct import)
-- A dedicated `README.md` with full instructions, features, and changelog
+- A dedicated `README.md` with full instructions and features
 
 ---
 
